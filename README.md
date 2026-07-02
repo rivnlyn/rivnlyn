@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on security research & CTFs
 - 🤔 I’m looking for help with advanced exploitation techniques
 - 💬 Ask me about pentesting, bug bounty, recon setup
-- 📫 How to reach me: Fiverr / Upwork / Discord / Telegram / Bugcrowd / Hackerone
+- 📫 How to reach me: [RivnLyn](https://t.me/rivnlyn)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Like water, I find every crack.
 
