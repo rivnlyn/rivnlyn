@@ -1,5 +1,4 @@
-## Hi there 👋
-- 🔭 I’m currently working on **ZERON**
+- 🔭 I’m currently working on **THINK PRODUCER**
 - 🌱 I’m currently learning Web App Security & Bug Bounty
 - 👯 I’m looking to collaborate on security research & CTFs
 - 🤔 I’m looking for help with advanced exploitation techniques
@@ -10,7 +9,7 @@
 
 🔐 About Me
 
-Aspiring bug bounty hunter and web app security researcher, building **ZERON** — a cybersecurity brand focused on ethical hacking and freelance pentesting services. Currently sharpening skills on real-world vulnerabilities (XSS, SQLi, Broken Access Control) and building a recon-to-report workflow using Burp Suite, Kali Linux & WSL.
+Aspiring bug bounty hunter and web app security researcher, building **THINK PRODUCER** — a cybersecurity brand focused on ethical hacking and freelance pentesting services. Currently sharpening skills on real-world vulnerabilities (XSS, SQLi, Broken Access Control) and building a recon-to-report workflow using Burp Suite, Kali Linux & WSL.
 
 Like water, I find every crack — then help seal it.
 
